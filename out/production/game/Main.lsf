@@ -43,6 +43,8 @@ player = DATA Players (Goals);
 playerName 'Игрок' (Goals g) = playerName(player(g));
 goals 'Голы' = DATA INTEGER (Goals);
 
+count 'Количество голов' = GROUP SUM goals(Goals g) BY player(g);
+
 CLASS GameResult 'Р/И' {
     win 'П',
     winOT 'ПО',
@@ -110,6 +112,11 @@ FORM MainFormSingle 'Турнирная таблица'
     OBJECTS goals = Goals
     PROPERTIES(goals) dateGame, playerName, goals, NEW, DELETE
     ORDER dateGame(goals)
+    
+    OBJECTS best 'Лучшие игроки' = Players
+    PROPERTIES(best) count, playerName
+    ORDER count(best) DESC, playerName(best) 
+    FILTERS count(best) > 0
     
     OBJECTS team = Team
     PROPERTIES(team) place, name, gamesPlayed, gamesWon, gamesWonOT, gamesWonSO,
