@@ -43,6 +43,8 @@ player = DATA Players (Goals);
 playerName 'Игрок' (Goals g) = playerName(player(g));
 goals 'Голы' = DATA INTEGER (Goals);
 
+CONSTRAINT (team(player(Goals g)) != guestTeam(date(g))) AND (team(player(g)) != hostTeam(date(g))) MESSAGE 'Команда указанного игрока не играла в данном матче!';
+
 count 'Количество голов' = GROUP SUM goals(Goals g) BY player(g);
 
 CLASS GameResult 'Р/И' {
