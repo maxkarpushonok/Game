@@ -8,7 +8,7 @@ name 'Название команды' = DATA STRING[30] (Team) IN base;
 
 CLASS Players 'Игроки';
 
-playerName '' = DATA STRING[100] (Players) IN base;
+playerName 'Игрок' = DATA STRING[100] (Players) IN base;
 team = DATA Team (Players);
 teamName 'Команда' (Players p) = name(team(p));
 
@@ -34,6 +34,14 @@ winner(Game game) = IF hostGoals(game) > guestGoals(game)
 looser(Game game) = IF hostGoals(game) > guestGoals(game)
                     THEN guestTeam(game)
                     ELSE hostTeam(game);
+
+CLASS Goals 'Голы';
+
+date = DATA Game (Goals);
+dateGame 'Дата' (Goals g) = date(date(g));
+player = DATA Players (Goals);
+playerName 'Игрок' (Goals g) = playerName(player(g));
+goals 'Голы' = DATA INTEGER (Goals);
 
 CLASS GameResult 'Р/И' {
     win 'П',
@@ -98,6 +106,10 @@ EXTEND FORM MainForm
 FORM MainFormSingle 'Турнирная таблица'
     OBJECTS game = Game
     PROPERTIES(game) date, hostTeamName, hostGoals, guestGoals, guestTeamName, resultName, NEW, DELETE
+    
+    OBJECTS goals = Goals
+    PROPERTIES(goals) dateGame, playerName, goals, NEW, DELETE
+    ORDER dateGame(goals)
     
     OBJECTS team = Team
     PROPERTIES(team) place, name, gamesPlayed, gamesWon, gamesWonOT, gamesWonSO,

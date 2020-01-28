@@ -1057,3 +1057,503 @@
 28 янв 2020 10:43:46,305  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] finished
 28 янв 2020 10:43:46,305  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
 28 янв 2020 10:43:46,305  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
+28 янв 2020 11:50:52,014  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:50:52,014  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:50:52,014  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 11:50:52,046  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 11:50:52,046  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:50:52,046  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:50:54,419  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:50:54,419  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:50:54,419  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 11:50:54,957  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 11:50:54,957  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 11:50:54,957  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:50:54,957  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:50:56,399  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3]
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] finished
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:51:05,416  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4]
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] finished
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:51:05,542  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5]
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] finished
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:51:05,557  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6] for request #6
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6] for request #6
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6]
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6] finished
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6] for request #6
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 6] for request #6
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7] for request #7
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7] for request #7
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7]
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7] finished
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7] for request #7
+28 янв 2020 11:51:05,575  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 7] for request #7
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8] for request #8
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8] for request #8
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8]
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8] finished
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8] for request #8
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 8] for request #8
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9] for request #9
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9] for request #9
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9]
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9] finished
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9] for request #9
+28 янв 2020 11:51:05,590  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 9] for request #9
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10] for request #10
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10] for request #10
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10]
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10] finished
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10] for request #10
+28 янв 2020 11:51:05,606  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 10] for request #10
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11] for request #11
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11] for request #11
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11]
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11] finished
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11] for request #11
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 11] for request #11
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12] for request #12
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12] for request #12
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12]
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12] finished
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12] for request #12
+28 янв 2020 11:51:05,637  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 12] for request #12
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13] for request #13
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13] for request #13
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13]
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13] finished
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13] for request #13
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 13] for request #13
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14] for request #14
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14] for request #14
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14]
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14] finished
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14] for request #14
+28 янв 2020 11:51:05,653  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 14] for request #14
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15] for request #15
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15] for request #15
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15]
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15] finished
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15] for request #15
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 15] for request #15
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16] for request #16
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16] for request #16
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16]
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16] finished
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16] for request #16
+28 янв 2020 11:51:05,668  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 16] for request #16
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17] for request #17
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17] for request #17
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17]
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17] finished
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17] for request #17
+28 янв 2020 11:51:05,684  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 17] for request #17
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18] for request #18
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18] for request #18
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18]
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18] finished
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18] for request #18
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 18] for request #18
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19] for request #19
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19] for request #19
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19]
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19] finished
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19] for request #19
+28 янв 2020 11:51:05,700  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 19] for request #19
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20] for request #20
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20] for request #20
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20]
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20] finished
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20] for request #20
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 20] for request #20
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21] for request #21
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21] for request #21
+28 янв 2020 11:51:05,715  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21]
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21] finished
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21] for request #21
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 21] for request #21
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22] for request #22
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22] for request #22
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22]
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22] finished
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22] for request #22
+28 янв 2020 11:51:05,731  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 22] for request #22
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23] for request #23
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23] for request #23
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23]
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23] finished
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23] for request #23
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 23] for request #23
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24] for request #24
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24] for request #24
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24]
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24] finished
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24] for request #24
+28 янв 2020 11:51:05,747  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 24] for request #24
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25] for request #25
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25] for request #25
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25]
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25] finished
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25] for request #25
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 25] for request #25
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26] for request #26
+28 янв 2020 11:51:05,762  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26] for request #26
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26]
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26] finished
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26] for request #26
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 26] for request #26
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27] for request #27
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27] for request #27
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27]
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27] finished
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27] for request #27
+28 янв 2020 11:51:05,778  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 27] for request #27
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28] for request #28
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28] for request #28
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28]
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28] finished
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28] for request #28
+28 янв 2020 11:51:06,208  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 28] for request #28
+28 янв 2020 11:51:06,380  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29] for request #29
+28 янв 2020 11:51:06,380  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29] for request #29
+28 янв 2020 11:51:06,380  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29]
+28 янв 2020 11:51:06,395  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29] finished
+28 янв 2020 11:51:06,395  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29] for request #29
+28 янв 2020 11:51:06,395  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 29] for request #29
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30] for request #30
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30] for request #30
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30]
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30] finished
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30] for request #30
+28 янв 2020 11:51:06,489  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 30] for request #30
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31] for request #31
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31] for request #31
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31]
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31] finished
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31] for request #31
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 31] for request #31
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32] for request #32
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32] for request #32
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32]
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32] finished
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32] for request #32
+28 янв 2020 11:51:06,614  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 32] for request #32
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33] for request #33
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33] for request #33
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33]
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33] finished
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33] for request #33
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 33] for request #33
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34] for request #34
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34] for request #34
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34]
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34] finished
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34] for request #34
+28 янв 2020 11:51:06,629  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 34] for request #34
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35] for request #35
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35] for request #35
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35]
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35] finished
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35] for request #35
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 35] for request #35
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36]
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] finished
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
+28 янв 2020 11:51:06,645  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 36] for request #36
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37] for request #37
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37] for request #37
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37]
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37] finished
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37] for request #37
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 37] for request #37
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38] for request #38
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38] for request #38
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38]
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38] finished
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38] for request #38
+28 янв 2020 11:51:06,661  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 38] for request #38
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39] for request #39
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39] for request #39
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39]
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39] finished
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39] for request #39
+28 янв 2020 11:51:06,676  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 39] for request #39
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40] for request #40
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40] for request #40
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40]
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40] finished
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40] for request #40
+28 янв 2020 11:51:07,340  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 40] for request #40
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41] for request #41
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41] for request #41
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41]
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41] finished
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41] for request #41
+28 янв 2020 11:51:08,757  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 41] for request #41
+28 янв 2020 11:53:08,579  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:53:08,579  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:53:08,579  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 11:53:08,641  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 11:53:08,641  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:53:08,641  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:53:20,676  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:53:20,676  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:53:20,676  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 11:53:21,216  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 11:53:21,216  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 11:53:21,216  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:53:21,216  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:53:22,635  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3]
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] finished
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:53:23,697  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 3] for request #3
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4]
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] finished
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:53:24,025  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 4] for request #4
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5]
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] finished
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:53:26,184  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeGroupObject, rq: 5] for request #5
+28 янв 2020 11:55:05,408  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:55:05,408  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:55:05,408  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 11:55:06,360  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 11:55:06,360  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:55:06,360  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:55:27,957  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:55:27,957  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:55:27,957  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 11:55:28,622  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 11:55:28,622  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 11:55:28,622  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:55:28,622  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:55:30,052  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:55:34,800  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 11:55:34,800  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 11:55:34,800  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3]
+28 янв 2020 11:55:34,846  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] finished
+28 янв 2020 11:55:34,846  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 11:55:34,846  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 11:56:18,581  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:56:18,581  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:56:18,581  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 11:56:18,627  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 11:56:18,627  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:56:18,627  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 11:59:08,754  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:59:08,770  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:59:08,770  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 11:59:09,376  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 11:59:09,376  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 11:59:09,376  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:59:09,376  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:59:10,837  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 11:59:10,853  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 11:59:10,853  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 11:59:10,853  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:00:13,824  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:00:13,824  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:00:13,824  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 12:00:13,889  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 12:00:13,889  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:00:13,889  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:00:31,016  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:00:31,016  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:00:31,016  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 12:00:31,664  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 12:00:31,664  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 12:00:31,664  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:00:31,664  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:00:33,085  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:01:03,438  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:01:03,438  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:01:03,438  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+28 янв 2020 12:01:03,485  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+28 янв 2020 12:01:03,485  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:01:03,485  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+28 янв 2020 12:01:11,147  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:01:11,147  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:01:11,147  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+28 янв 2020 12:01:11,854  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+28 янв 2020 12:01:11,854  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+28 янв 2020 12:01:11,854  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:01:11,854  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0]
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] finished
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1]
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] finished
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 1] for request #1
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:01:13,280  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2]
+28 янв 2020 12:01:13,295  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] finished
+28 янв 2020 12:01:13,295  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:01:13,295  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 2] for request #2
+28 янв 2020 12:01:15,438  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 12:01:15,438  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 12:01:15,438  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3]
+28 янв 2020 12:01:15,470  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] finished
+28 янв 2020 12:01:15,470  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 12:01:15,470  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changeProperty, rq: 3] for request #3
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4] for request #4
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4] for request #4
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4]
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4] finished
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4] for request #4
+28 янв 2020 12:01:16,612  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: changePageSize, rq: 4] for request #4
+28 янв 2020 12:01:17,566  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] for request #5
+28 янв 2020 12:01:17,566  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] for request #5
+28 янв 2020 12:01:17,566  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5]
+28 янв 2020 12:01:17,609  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] called pauseForUserInteraction: [FormClientAction[modalitType: DIALOG_MODAL]]
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_13708, m: executeEditAction, rq: 0] for request #0
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_13708, m: executeEditAction, rq: 0] for request #0
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_13708, m: executeEditAction, rq: 0]
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Interaction [f: _FORM_13708, m: executeEditAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@32910ede
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Invocation [f: _FORM_13708, m: executeEditAction, rq: 0] finished
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_13708, m: executeEditAction, rq: 0] for request #0
+28 янв 2020 12:01:17,781  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_13708, m: executeEditAction, rq: 0] for request #0
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] resumed after userInteraction: [null]
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] called delayUserInteraction: lsfusion.interop.action.UpdateEditValueClientAction@595552f0
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] called delayUserInteraction: lsfusion.interop.action.AsyncGetRemoteChangesClientAction@31dd64aa
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] finished
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] for request #5
+28 янв 2020 12:01:17,796  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 5] for request #5
+28 янв 2020 12:01:17,813  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6] for request #6
+28 янв 2020 12:01:17,813  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6] for request #6
+28 янв 2020 12:01:17,813  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6]
+28 янв 2020 12:01:17,829  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6] finished
+28 янв 2020 12:01:17,829  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6] for request #6
+28 янв 2020 12:01:17,829  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: getRemoteChanges, rq: 6] for request #6
+28 янв 2020 12:01:18,488  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] for request #7
+28 янв 2020 12:01:18,488  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] for request #7
+28 янв 2020 12:01:18,488  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7]
+28 янв 2020 12:01:18,528  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] called pauseForUserInteraction: [FormClientAction[modalitType: DIALOG_MODAL]]
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_13708, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_13708, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_13708, m: changePageSize, rq: 0]
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Invocation [f: _FORM_13708, m: changePageSize, rq: 0] finished
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_13708, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:19,720  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_13708, m: changePageSize, rq: 0] for request #0
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Acquiring request lock for [f: _FORM_13708, m: executeEditAction, rq: 1] for request #1
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Acquired request lock for [f: _FORM_13708, m: executeEditAction, rq: 1] for request #1
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Run invocation: [f: _FORM_13708, m: executeEditAction, rq: 1]
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Interaction [f: _FORM_13708, m: executeEditAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@39ed6b77
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Invocation [f: _FORM_13708, m: executeEditAction, rq: 1] finished
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Releasing request lock for [f: _FORM_13708, m: executeEditAction, rq: 1] for request #1
+28 янв 2020 12:01:22,734  INFO PausableInvocationsLogger - Released request lock for [f: _FORM_13708, m: executeEditAction, rq: 1] for request #1
+28 янв 2020 12:01:22,750  INFO PausableInvocationsLogger - Interaction [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] resumed after userInteraction: [null]
+28 янв 2020 12:01:22,750  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] finished
+28 янв 2020 12:01:22,750  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] for request #7
+28 янв 2020 12:01:22,750  INFO PausableInvocationsLogger - Released request lock for [f: HockeyStats.MainFormSingle, m: executeEditAction, rq: 7] for request #7
